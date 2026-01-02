@@ -126,6 +126,54 @@ test.py: contains examples and test cases.
 
 
 
+## Jan 2 2026
+## Repo additions:
+
+### LogisticRegression
+logistic_regression.py: contains logistic regression function using gradient descent.
+test.py: contains examples and test cases.
+
+
+
+### Regression
+pyproject.toml: build information of library.
+test.py: contains examples and test cases.
+README.md: for reading about library.
+#### Regression
+regression.py: contains standard scaler,linear and logistic regression classes using gradient descent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### LogisticRegression
 logistic_regression.py = contains declaration and implementation of the logistic regression function.
 test.py: contains examples and test cases.
