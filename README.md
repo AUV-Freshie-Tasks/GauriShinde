@@ -144,36 +144,3 @@ regression.py: contains standard scaler,linear and logistic regression classes u
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### LogisticRegression
-logistic_regression.py = contains declaration and implementation of the logistic regression function.
-test.py: contains examples and test cases.
